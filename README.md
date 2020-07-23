@@ -1,10 +1,9 @@
-#========================
 # COLOUR PALETTE
-#========================
 
 ## Description
 This program is designed to be a lightweight colour palette generator for creative projects. It uses a slider to select a hue, and then generates a 9 swatch colour palette based off the initial selection.
 
-<br>
+To download the latest release, visit the [releases page](/mrbrianevans/colour-palette/releases/latest)
 
-Please send me any bugs or improvements that you find.
+
+![Preview of the app running](colourPalletScreenshot.png)
